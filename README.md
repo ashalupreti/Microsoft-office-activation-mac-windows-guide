@@ -50,13 +50,13 @@ The below activator (serializer) pkg files are extracted from the official iso f
 
 ---
 
-# Disclaimer
+## Disclaimer
 
 This repository is intended for educational, deployment, and research purposes only. Users are responsible for complying with Microsoft licensing policies and software agreements.
 
 ---
 
-# Star This Repository
+## Star This Repository
 
 If this repository helped you, consider giving it a star to support the project.
 
