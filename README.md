@@ -1,8 +1,15 @@
 ## 🖥️ Activate Microsoft Office or Windows
 
+This repository helps you:
+
+* Install and configure Microsoft Office using the Office Deployment Tool (ODT) with customizable apps, versions, and update channels
+* Deploy Windows using official ISO-based installation workflows with clean setup and configuration options
+* Handle Microsoft Office setup across both Windows and macOS environments with consistent installation practices
+* Learn structured, enterprise-style software deployment methods used by IT teams for reliable and reproducible setups
+
 ###  Windows User:
 1. Download OS & Office Link: https://files.rg-adguard.net/version/5f2ad9c6-e111-76e8-06d1-56d44c136bae
-2. Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
+2. Open PowerShell instead of CMD. You can do this by right-clicking the Start button and choosing PowerShell or Terminal from the menu.
 3. Copy and paste the code below and press enter
 
 ```
